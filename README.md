@@ -1,4 +1,4 @@
-# Kaggle-Allstate-Claims-Severity-Competition
+# Kaggle-Allstate-Claims-Severity-Competition 
 Alexandru Daia :bomb: &
 Beyhan Gül :bomb:
 
@@ -8,4 +8,4 @@ Beyhan Gül :bomb:
  
  * THings     we experiment     for  fun  :bomb:
  
-         * Part  1  Multiple   methos   of   feature engineering  ( some crazy ideeas  from  bioinformatics)
+         * Part  1  Multiple   methos   of   feature engineering  ( some crazy ideeas  from  bioinformatics)  :steam_locomotive:
