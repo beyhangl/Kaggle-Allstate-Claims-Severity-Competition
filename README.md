@@ -8,4 +8,6 @@ Beyhan Gül :bomb:
  
  * THings     we experiment     for  fun  :bomb:
  
-         * Part  1  Multiple   methos   of   feature engineering  ( some crazy ideeas  from  bioinformatics)  :steam_locomotive:
+  :steam_locomotive:
+ 
+         * Part  1  Multiple   methos   of   feature engineering  ( some crazy ideeas  from  bioinformatics) 
