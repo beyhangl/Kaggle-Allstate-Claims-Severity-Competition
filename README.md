@@ -7,4 +7,5 @@ Beyhan Gül :bomb:
  :gun: :gun: :gun: :gun: :gun: :gun: :gun: :gun: :gun: :gun: :gun: :gun: :gun: :gun: :gun: :gun: :gun: :gun: :gun: :gun: :gun: :gu
  
  * THings     we experiment     for  fun  :bomb:
+ 
          * Part  1  Multiple   methos   of   feature engineering  ( some crazy ideeas  from  bioinformatics)
